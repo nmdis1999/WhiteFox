@@ -1,4 +1,3 @@
-## File: LoopFusePassoneshot_0_gpt-4_starcoder_c_deadarg.txt
 The C code should contain the following pattern:
 
 ```c
